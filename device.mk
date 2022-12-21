@@ -1,4 +1,4 @@
-LOCAL_PATH := device/samsung/a10
+LOCAL_PATH := device/samsung/a20e
 
 # Fastbootd
 PRODUCT_PACKAGES += \
